@@ -1,5 +1,5 @@
-# MarinaCam
-Uses Shodan to query cameras in a given area, then automatically exploits them. 
+# StandardCam
+Uses Shodan to query cameras in a given area///
 
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 
